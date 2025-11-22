@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradYT" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="32" height="32" rx="8" fill="url(#gradYT)"/>
+  
+  <g fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round">
+    <!-- YT Monogram -->
+    <path d="M9 12L13 18L17 12M13 18V22M19 12H23M21 12V18" stroke-width="1.8"/>
+    
+    <!-- AI Symbol -->
+    <path d="M25 12L27 10M25 16L27 14M25 20L27 18" stroke-width="1.2"/>
+    <circle cx="26" cy="16" r="1.2" stroke-width="1.2"/>
+  </g>
+</svg>
